@@ -2066,7 +2066,7 @@ ul.icons {
 
 /* CTA */
 #cta {
-  background-color:  #082a9b;/*  #ce1b28; */
+  background-color:  #003f92;/*  #ce1b28; */
   color: rgba(255, 255, 255, 0.75);
   background-attachment: fixed;
   background-image: linear-gradient(rgba(206, 27, 40, 0.25), rgba(206, 27, 40, 0.25)), url(../../images/cta01.jpg);
@@ -3033,7 +3033,7 @@ video {
 .testimonial .post{
     display: block;
     font-size: 14px;
-    color: #5d7aa7;
+    color: #002e74;
 }
 .testimonial .description{
     padding: 20px 22px;
