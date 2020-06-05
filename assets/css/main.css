@@ -2066,7 +2066,7 @@ ul.icons {
 
 /* CTA */
 #cta {
-  background-color:  #3366cc;/*  #ce1b28; */
+  background-color:  #082a9b;/*  #ce1b28; */
   color: rgba(255, 255, 255, 0.75);
   background-attachment: fixed;
   background-image: linear-gradient(rgba(206, 27, 40, 0.25), rgba(206, 27, 40, 0.25)), url(../../images/cta01.jpg);
@@ -3075,3 +3075,7 @@ video {
     color: #1f487e;
 }
 .owl-next:before{ content: "\f054"; }
+
+
+
+
