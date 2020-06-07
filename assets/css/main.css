@@ -266,14 +266,14 @@ button,
   border: 0;
   border-radius: 4px;
   cursor: pointer;
-  display: inline-block;
+  display:inline-block;
   font-weight: 600;
   height: 3.25rem;
   line-height: 3.25rem;
   padding: 0 1.75rem;
   text-align: center;
   text-decoration: none;
-  white-space: nowrap; }
+  white-space:nowrap; }
   input[type="submit"].small,
   input[type="reset"].small,
   input[type="button"].small,
@@ -3094,3 +3094,7 @@ imgt:hover {
 div.wrap {
   word-wrap: break-word;
 }
+
+
+
+
